@@ -1,0 +1,428 @@
+[
+    {
+        "text": "The TH860 underground truck is designed with a reinforced chassis for handling heavy loads and rough terrain in mining operations.",
+        "equipment_type": "truck",
+        "equipment_model": "TH860",
+        "document_type": "specs"
+    },
+    {
+        "text": "Operators must ensure the LH410 loader's bucket pins are lubricated every 250 operating hours to prevent wear and tear.",
+        "equipment_type": "loader",
+        "equipment_model": "LH410",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The DR412i rotary drill offers advanced automation features, including remote operation and automated drill string handling.",
+        "equipment_type": "drill",
+        "equipment_model": "DR412i",
+        "document_type": "specs"
+    },
+    {
+        "text": "To ensure maximum efficiency, the CH550 cone crusher requires calibration of the control settings before each use.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH550",
+        "document_type": "operation"
+    },
+    {
+        "text": "The MT65 truck is equipped with advanced suspension systems to minimize vibrations and enhance driver comfort during long shifts.",
+        "equipment_type": "truck",
+        "equipment_model": "MT65",
+        "document_type": "manual"
+    },
+    {
+        "text": "The LH621 loader can be fitted with an optional fire suppression system for enhanced safety in underground environments.",
+        "equipment_type": "loader",
+        "equipment_model": "LH621",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DD320S jumbo drill features a dual-boom design, allowing for simultaneous drilling of two parallel blast holes.",
+        "equipment_type": "drill",
+        "equipment_model": "DD320S",
+        "document_type": "specs"
+    },
+    {
+        "text": "The CV229 VSI crusher is ideal for producing high-quality manufactured sand and features wear-resistant components for extended use.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV229",
+        "document_type": "specs"
+    },
+    {
+        "text": "Operators must conduct a daily pre-operation check of the TH545i truck’s steering and brake systems to ensure safe handling.",
+        "equipment_type": "truck",
+        "equipment_model": "TH545i",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DS422i rock bolter includes a water-mist system to suppress dust during drilling, enhancing visibility and operator safety.",
+        "equipment_type": "rock bolter",
+        "equipment_model": "DS422i",
+        "document_type": "safety"
+    },
+    {
+        "text": "The LH115 loader’s compact size makes it ideal for narrow-vein mining, while its powerful engine delivers high productivity.",
+        "equipment_type": "loader",
+        "equipment_model": "LH115",
+        "document_type": "specs"
+    },
+    {
+        "text": "Ensure that the DX900i drill rig’s air compressor is inspected every 300 hours to maintain optimal drilling performance.",
+        "equipment_type": "drill",
+        "equipment_model": "DX900i",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The JM1211 jaw crusher features an innovative toggle system that reduces wear on components and ensures efficient material crushing.",
+        "equipment_type": "crusher",
+        "equipment_model": "JM1211",
+        "document_type": "specs"
+    },
+    {
+        "text": "Operators of the TH320 truck must be trained in emergency evacuation protocols due to its application in hazardous underground environments.",
+        "equipment_type": "truck",
+        "equipment_model": "TH320",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DD422iE drill uses a battery-electric power system to reduce emissions and improve energy efficiency in underground mining.",
+        "equipment_type": "drill",
+        "equipment_model": "DD422iE",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH514 loader’s hydraulic system allows for precise control of attachments, ensuring smooth operation in confined spaces.",
+        "equipment_type": "loader",
+        "equipment_model": "LH514",
+        "document_type": "manual"
+    },
+    {
+        "text": "The CV217 VSI crusher requires a biweekly inspection of rotor tips and wear plates to maintain consistent output quality.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV217",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The MT42 underground truck is equipped with an ergonomic operator cabin, featuring air conditioning and noise reduction systems.",
+        "equipment_type": "truck",
+        "equipment_model": "MT42",
+        "document_type": "specs"
+    },
+    {
+        "text": "The DD311 compact drill is designed for single-boom operations and is highly effective in small-scale mining projects.",
+        "equipment_type": "drill",
+        "equipment_model": "DD311",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH410 loader’s cooling system requires flushing and replacement of coolant every 1,500 hours to avoid overheating.",
+        "equipment_type": "loader",
+        "equipment_model": "LH410",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The QH331 cone crusher is fitted with a Hydrocone system, allowing for real-time monitoring and adjustment of settings.",
+        "equipment_type": "crusher",
+        "equipment_model": "QH331",
+        "document_type": "operation"
+    },
+    {
+        "text": "The DP1500i drill rig features a canopy that meets FOPS/ROPS standards, providing enhanced operator protection during operations.",
+        "equipment_type": "drill",
+        "equipment_model": "DP1500i",
+        "document_type": "safety"
+    },
+    {
+        "text": "The LH202 loader is designed for narrow-vein mining, offering a payload capacity of 3.5 metric tons and a compact turning radius.",
+        "equipment_type": "loader",
+        "equipment_model": "LH202",
+        "document_type": "specs"
+    },
+    {
+        "text": "The TH663 truck is equipped with an automatic retarder system to control speed during downhill operations, ensuring safety and stability.",
+        "equipment_type": "truck",
+        "equipment_model": "TH663",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DD422i drill can be programmed for semi-autonomous operation, reducing downtime and improving drilling precision in complex environments.",
+        "equipment_type": "drill",
+        "equipment_model": "DD422i",
+        "document_type": "operation"
+    },
+    {
+        "text": "The LH514 loader's centralized lubrication system reduces the time required for maintenance, allowing operators to focus on production tasks.",
+        "equipment_type": "loader",
+        "equipment_model": "LH514",
+        "document_type": "manual"
+    },
+    {
+        "text": "Operators should inspect the CV217 crusher's belt tension weekly to prevent slippage and ensure consistent material throughput.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV217",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The MT65 truck features an advanced collision avoidance system, providing real-time alerts to prevent accidents in busy mining sites.",
+        "equipment_type": "truck",
+        "equipment_model": "MT65",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DR410i drill rig supports high-precision GPS navigation for accurate hole placement, improving blasting results and reducing costs.",
+        "equipment_type": "drill",
+        "equipment_model": "DR410i",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH621 loader is equipped with a rapid-fill fueling system, allowing for faster refueling times and reduced operational downtime.",
+        "equipment_type": "loader",
+        "equipment_model": "LH621",
+        "document_type": "manual"
+    },
+    {
+        "text": "The CH870i cone crusher features a spider bearing design that provides greater crushing force and operational stability.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH870i",
+        "document_type": "specs"
+    },
+    {
+        "text": "The TH551i truck is compatible with telematics solutions, enabling remote monitoring of fuel consumption and performance metrics.",
+        "equipment_type": "truck",
+        "equipment_model": "TH551i",
+        "document_type": "manual"
+    },
+    {
+        "text": "The DD320S drill is equipped with a water recycling system that minimizes water usage, making it environmentally friendly for drilling projects.",
+        "equipment_type": "drill",
+        "equipment_model": "DD320S",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH517i loader’s operator cabin features joystick controls and an integrated display for real-time diagnostics.",
+        "equipment_type": "loader",
+        "equipment_model": "LH517i",
+        "document_type": "manual"
+    },
+    {
+        "text": "Inspect the QJ341 jaw crusher’s feeder grizzly bars every 300 hours to ensure smooth feeding and prevent blockages.",
+        "equipment_type": "crusher",
+        "equipment_model": "QJ341",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The MT42 truck’s advanced braking system includes wet disc brakes for maximum stopping power, even on steep grades.",
+        "equipment_type": "truck",
+        "equipment_model": "MT42",
+        "document_type": "specs"
+    },
+    {
+        "text": "The DP1500i drill rig is capable of horizontal drilling for trenching applications, adding versatility to its operational use.",
+        "equipment_type": "drill",
+        "equipment_model": "DP1500i",
+        "document_type": "operation"
+    },
+    {
+        "text": "The LH514 loader’s tires are designed for high durability and can operate in temperatures as low as -30°C.",
+        "equipment_type": "loader",
+        "equipment_model": "LH514",
+        "document_type": "specs"
+    },
+    {
+        "text": "Operators must wear personal protective equipment (PPE) while performing maintenance on the CV228 VSI crusher to avoid injuries.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV228",
+        "document_type": "safety"
+    },
+    {
+        "text": "The TH320 truck’s compact design makes it ideal for maneuvering in narrow underground tunnels with limited space.",
+        "equipment_type": "truck",
+        "equipment_model": "TH320",
+        "document_type": "specs"
+    },
+    {
+        "text": "The DD422iE drill uses regenerative braking to recharge its batteries, improving energy efficiency during operations.",
+        "equipment_type": "drill",
+        "equipment_model": "DD422iE",
+        "document_type": "operation"
+    },
+    {
+        "text": "The LH410 loader’s automatic bucket leveling system reduces spillage and increases material handling efficiency.",
+        "equipment_type": "loader",
+        "equipment_model": "LH410",
+        "document_type": "manual"
+    },
+    {
+        "text": "The CH430 cone crusher’s tramp release system allows for quick clearing of blockages, minimizing downtime.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH430",
+        "document_type": "operation"
+    },
+    {
+        "text": "The TH551i truck’s onboard diagnostics provide real-time feedback on engine performance and operational parameters.",
+        "equipment_type": "truck",
+        "equipment_model": "TH551i",
+        "document_type": "manual"
+    },
+    {
+        "text": "The DR410i drill rig’s automatic drill bit lubrication system extends the life of bits and reduces operational costs.",
+        "equipment_type": "drill",
+        "equipment_model": "DR410i",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The LH621 loader’s reinforced bucket design allows for efficient handling of abrasive materials without premature wear.",
+        "equipment_type": "loader",
+        "equipment_model": "LH621",
+        "document_type": "specs"
+    },
+    {
+        "text": "The DD422i drill is equipped with a dual-motor drive system that enhances drilling speed and torque in hard rock conditions.",
+        "equipment_type": "drill",
+        "equipment_model": "DD422i",
+        "document_type": "specs"
+    },
+    {
+        "text": "The MT65 truck’s engine has been optimized for fuel efficiency, consuming 20% less diesel compared to previous models.",
+        "equipment_type": "truck",
+        "equipment_model": "MT65",
+        "document_type": "manual"
+    },
+    {
+        "text": "The CH660 cone crusher includes an automatic overload protection system that safeguards critical components during operation.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH660",
+        "document_type": "safety"
+    },
+    {
+        "text": "The LH410 loader features a reinforced articulation joint, allowing it to handle continuous loads in high-stress environments.",
+        "equipment_type": "loader",
+        "equipment_model": "LH410",
+        "document_type": "manual"
+    },
+    {
+        "text": "The TH320 truck’s load-sensing hydraulics provide improved efficiency by optimizing power delivery based on load requirements.",
+        "equipment_type": "truck",
+        "equipment_model": "TH320",
+        "document_type": "operation"
+    },
+    {
+        "text": "Operators must ensure that the DP1100i drill’s water injection system is operational to reduce dust and maintain drill bit life.",
+        "equipment_type": "drill",
+        "equipment_model": "DP1100i",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The LH517 loader has an integrated weighing system that allows operators to monitor load weights in real time for enhanced productivity.",
+        "equipment_type": "loader",
+        "equipment_model": "LH517",
+        "document_type": "specs"
+    },
+    {
+        "text": "The CV217 VSI crusher is ideal for producing fine aggregates and features a modular design for easy maintenance.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV217",
+        "document_type": "specs"
+    },
+    {
+        "text": "The TH551i truck is equipped with anti-roll-back technology, ensuring safe operation on steep inclines.",
+        "equipment_type": "truck",
+        "equipment_model": "TH551i",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DD421i drill rig offers a remote monitoring system that provides performance data directly to the control room.",
+        "equipment_type": "drill",
+        "equipment_model": "DD421i",
+        "document_type": "manual"
+    },
+    {
+        "text": "The LH410 loader’s quick-attach coupler system enables rapid switching between different buckets and attachments.",
+        "equipment_type": "loader",
+        "equipment_model": "LH410",
+        "document_type": "operation"
+    },
+    {
+        "text": "The CH870 cone crusher is designed for high-capacity crushing and features adjustable settings to optimize output.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH870",
+        "document_type": "specs"
+    },
+    {
+        "text": "The MT65 truck includes an advanced cooling system, ensuring consistent engine performance even in extreme heat.",
+        "equipment_type": "truck",
+        "equipment_model": "MT65",
+        "document_type": "specs"
+    },
+    {
+        "text": "The DP1500i drill rig features a hydraulic mast raising system, enabling quick setup and dismantling at job sites.",
+        "equipment_type": "drill",
+        "equipment_model": "DP1500i",
+        "document_type": "operation"
+    },
+    {
+        "text": "The LH621 loader’s ergonomic cabin design minimizes operator fatigue during long shifts, improving productivity.",
+        "equipment_type": "loader",
+        "equipment_model": "LH621",
+        "document_type": "manual"
+    },
+    {
+        "text": "The QJ341 mobile jaw crusher has a reverse crushing action to clear blockages and ensure continuous operation.",
+        "equipment_type": "crusher",
+        "equipment_model": "QJ341",
+        "document_type": "operation"
+    },
+    {
+        "text": "The TH320 truck can be equipped with an optional fire suppression system for enhanced safety in flammable environments.",
+        "equipment_type": "truck",
+        "equipment_model": "TH320",
+        "document_type": "safety"
+    },
+    {
+        "text": "The DD422iE drill uses electric power to reduce emissions and improve operational efficiency in underground mining.",
+        "equipment_type": "drill",
+        "equipment_model": "DD422iE",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH514 loader’s advanced air filtration system ensures clean air circulation in the operator cabin.",
+        "equipment_type": "loader",
+        "equipment_model": "LH514",
+        "document_type": "manual"
+    },
+    {
+        "text": "The CV228 VSI crusher’s wear parts can be easily replaced without specialized tools, reducing maintenance time.",
+        "equipment_type": "crusher",
+        "equipment_model": "CV228",
+        "document_type": "maintenance"
+    },
+    {
+        "text": "The TH545i truck features a variable payload monitoring system that adjusts engine power based on load weight.",
+        "equipment_type": "truck",
+        "equipment_model": "TH545i",
+        "document_type": "manual"
+    },
+    {
+        "text": "The DR410i drill rig’s operator cabin includes climate control and noise suppression for increased operator comfort.",
+        "equipment_type": "drill",
+        "equipment_model": "DR410i",
+        "document_type": "specs"
+    },
+    {
+        "text": "The LH621 loader’s high-strength bucket is engineered to handle abrasive materials without compromising durability.",
+        "equipment_type": "loader",
+        "equipment_model": "LH621",
+        "document_type": "specs"
+    },
+    {
+        "text": "The CH550 cone crusher’s integrated control system enables real-time adjustments to optimize performance.",
+        "equipment_type": "crusher",
+        "equipment_model": "CH550",
+        "document_type": "operation"
+    },
+    {
+        "text": "The MT42 truck’s engine meets Tier 4 emission standards, making it environmentally compliant and fuel-efficient.",
+        "equipment_type": "truck",
+        "equipment_model": "MT42",
+        "document_type": "specs"
+    }
+]
